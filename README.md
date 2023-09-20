@@ -32,7 +32,7 @@ Contributions are welcome! If you'd like to contribute to NewsByte, please follo
 1. Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
 2. Make your changes and commit them: git commit -m 'Add a new feature'.
 3. Push to the branch: git push origin feature/your-feature-name.
-3.Create a pull request to merge your changes into the main branch.
+4. Create a pull request to merge your changes into the main branch.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 NewsAPI for providing real-time news data.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [email](shoyabmansuri916@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [email](`shoyabmansuri916@gmail.com`).
