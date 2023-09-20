@@ -29,10 +29,10 @@ NewsAPI - The API used to fetch news data.
 Contributions are welcome! If you'd like to contribute to NewsByte, please follow these steps:
 
 ## Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
-Make your changes and commit them: git commit -m 'Add a new feature'.
-Push to the branch: git push origin feature/your-feature-name.
-Create a pull request to merge your changes into the main branch.
+1. Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
+2. Make your changes and commit them: git commit -m 'Add a new feature'.
+3. Push to the branch: git push origin feature/your-feature-name.
+3.Create a pull request to merge your changes into the main branch.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
