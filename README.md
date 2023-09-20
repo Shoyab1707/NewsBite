@@ -17,7 +17,7 @@ To run newsBite locally, follow these simple steps:
 
 1. Clone the repository to your local system:
    ```bash
-   git clone https://github.com/your-username/newsBite.git
+   https://github.com/Shoyab1707/NewsBite.git
 2. Navigate to the project directory: cd newsBite
 3. Ensure you have an active internet connection, as newsBite relies on real-time data from NewsAPI.
 4. Open the index.html file in your preferred web browser.
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 NewsAPI for providing real-time news data.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [emil](shoyabmansuri916@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [email](shoyabmansuri916@gmail.com).
